@@ -1,3 +1,0 @@
-This is a Test file.
-
-It is used in testing Git operations.
