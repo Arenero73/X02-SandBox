@@ -1,6 +1,6 @@
 # ===========================================================
 # GLOBAL .gitignore file for Multi-Language AI Sandboxes
-# (Goland, PyCharm, RustRover, CLion, VS Code)
+# (Goland, PyCharm, RustRover, CLion)
 # Place in the root directory of your project as '.gitignore'
 # Do NOT deploy a .gitignore file in the ./.idea directory
 # of your project.
